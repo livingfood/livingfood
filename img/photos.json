@@ -1,0 +1,32 @@
+[
+  {
+    "src": "easter-rolls.jpg",
+    "width": 1134,
+    "height": 718,
+    "title": "Великденско роло"
+  },
+  {
+    "src": "birthday-chocolate-cake.jpg",
+    "width": 944,
+    "height": 865,
+    "title": "Шоколадова торта"
+  },
+  {
+    "src": "mini-chocolate-cakes.jpg",
+    "width": 1227,
+    "height": 828,
+    "title": "Мини шоколадова торта"
+  },
+  {
+    "src": "truffles.jpg",
+    "width": 1292,
+    "height": 877,
+    "title": "Трюфели"
+  },
+  {
+    "src": "dip.jpg",
+    "width": 1167,
+    "height": 917,
+    "title": "Топ-топ"
+  }
+]
