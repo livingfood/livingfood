@@ -1,0 +1,6 @@
+{
+	"name": "livingfood.github.io",
+	"dependencies": {
+		"image-size": "^0.8.3"
+	}
+}

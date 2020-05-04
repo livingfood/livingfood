@@ -1,32 +1,125 @@
-[
-  {
-    "src": "easter-rolls.jpg",
-    "width": 1134,
-    "height": 718,
-    "title": "Великденско роло"
+{
+  "tags": {
+    "1": "с рисунка",
+    "2": "с надпис",
+    "3": "сушени",
+    "4": "торта",
+    "5": "мини",
+    "6": "дребни",
+    "7": "солено"
   },
-  {
-    "src": "birthday-chocolate-cake.jpg",
-    "width": 944,
-    "height": 865,
-    "title": "Шоколадова торта"
-  },
-  {
-    "src": "mini-chocolate-cakes.jpg",
-    "width": 1227,
-    "height": 828,
-    "title": "Мини шоколадова торта"
-  },
-  {
-    "src": "truffles.jpg",
-    "width": 1292,
-    "height": 877,
-    "title": "Трюфели"
-  },
-  {
-    "src": "dip.jpg",
-    "width": 1167,
-    "height": 917,
-    "title": "Топ-топ"
-  }
-]
+  "photos": [
+    {
+      "src": "beet-delicacy.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Цвекланка",
+      "tags": "7,3"
+    },
+    {
+      "src": "birthday-chocolate-cake.jpg",
+      "width": 944,
+      "height": 865,
+      "title": "Шоколадова торта",
+      "tags": "4,2"
+    },
+    {
+      "src": "cake-tower.jpg",
+      "width": 667,
+      "height": 667,
+      "title": "Мини торта",
+      "tags": "4,5"
+    },
+    {
+      "src": "candy-boxes.png",
+      "width": 1135,
+      "height": 395,
+      "title": "Бонбони",
+      "tags": "6"
+    },
+    {
+      "src": "cashew-cream.jpg",
+      "width": 500,
+      "height": 350,
+      "title": "Крем кашу",
+      "tags": "7,6"
+    },
+    {
+      "src": "cheese-beets.jpg",
+      "width": 1292,
+      "height": 805,
+      "title": "Цвекланка",
+      "tags": "7"
+    },
+    {
+      "src": "dip.jpg",
+      "width": 1167,
+      "height": 917,
+      "title": "Fondue",
+      "tags": "6"
+    },
+    {
+      "src": "easter-rolls.jpg",
+      "width": 1134,
+      "height": 718,
+      "title": "",
+      "tags": ""
+    },
+    {
+      "src": "feta-cheese.jpg",
+      "width": 2048,
+      "height": 1365,
+      "title": "Бадемово сирене",
+      "tags": "7"
+    },
+    {
+      "src": "ginger-figures.png",
+      "width": 682,
+      "height": 589,
+      "title": "Джинджифилови човечета",
+      "tags": "6"
+    },
+    {
+      "src": "mini-chocolate-cakes.jpg",
+      "width": 1227,
+      "height": 828,
+      "title": "Мини торти",
+      "tags": "6,4"
+    },
+    {
+      "src": "mushrooms.jpg",
+      "width": 1069,
+      "height": 873,
+      "title": "Гъби",
+      "tags": "7"
+    },
+    {
+      "src": "plate.jpg",
+      "width": 964,
+      "height": 920,
+      "title": "Плато",
+      "tags": "7"
+    },
+    {
+      "src": "purple-rocket.jpg",
+      "width": 985,
+      "height": 863,
+      "title": "Торта с рисунка",
+      "tags": "4,1,2"
+    },
+    {
+      "src": "shop-display.jpg",
+      "width": 1189,
+      "height": 866,
+      "title": "Витрина",
+      "tags": "4,6,7"
+    },
+    {
+      "src": "truffles.jpg",
+      "width": 1292,
+      "height": 877,
+      "title": "Трюфели",
+      "tags": "6"
+    }
+  ]
+}
